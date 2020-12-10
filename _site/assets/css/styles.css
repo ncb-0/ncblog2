@@ -1,0 +1,99 @@
+@font-face { font-family: "PicoA"; src: url("/fonts/PicoA-Hairline.woff2") format("woff2"), url("/fonts/PicoA-Hairline.woff") format("woff"); font-weight: 100; }
+@font-face { font-family: "PicoA"; src: url("/fonts/PicoA-Extralight.woff2") format("woff2"), url("/fonts/PicoA-Extralight.woff") format("woff"); font-weight: 200; }
+@font-face { font-family: "PicoA"; src: url("/fonts/PicoA-Light.woff2") format("woff2"), url("/fonts/PicoA-Thin.woff") format("woff"); font-weight: 300; }
+@font-face { font-family: "PicoA"; src: url("/fonts/PicoA-Semilight.woff2") format("woff2"), url("/fonts/PicoA-Light.woff") format("woff"); font-weight: 400; }
+@font-face { font-family: "PicoA"; src: url("/fonts/PicoA-Book.woff2") format("woff2"), url("/fonts/PicoA-Regular.woff") format("woff"); font-weight: 500; }
+@font-face { font-family: "PicoA"; src: url("/fonts/PicoA-Regular.woff2") format("woff2"), url("/fonts/PicoA-Medium.woff") format("woff"); font-weight: 600; }
+@font-face { font-family: "PicoA"; src: url("/fonts/PicoA-Medium.woff2") format("woff2"), url("/fonts/PicoA-Bold.woff") format("woff"); font-weight: 700; }
+@font-face { font-family: "PicoA"; src: url("/fonts/PicoA-Bold.woff2") format("woff2"), url("/fonts/PicoA-Heavy.woff") format("woff"); font-weight: 800; }
+@font-face { font-family: "PicoA"; src: url("/fonts/PicoA-Black.woff2") format("woff2"), url("/fonts/PicoA-Black.woff") format("woff"); font-weight: 900; }
+@use "sass.color";
+@keyframes blink { 0%, 100% { color: #333322; }
+  50% { color: rgba(51, 51, 34, 0); } }
+* { box-sizing: border-box; margin: 0; padding: 0; font-family: "PicoA", "Helvetica Neue", Helvetica, Arial, system-ui, sans-serif; z-index: 10; }
+
+*::selection { background: rgba(51, 51, 34, 0.15); }
+
+::webkit-scrollbar { display: none; }
+
+body { padding: 3px 8px; background: #fff; color: #332; }
+
+#grid { display: grid; grid-template-columns: 250px 250px 1fr; grid-gap: 12px; }
+
+img, video { width: 100%; height: auto; margin-top: 5px; }
+
+video { border: 1px solid rgba(51, 51, 34, 0.2); }
+
+iframe { margin: 5px 0; }
+
+.img2 { display: grid; grid-template-columns: 1fr 1fr; grid-gap: 4px; justify-content: center; margin-bottom: 2px; }
+
+.img3 { display: grid; grid-template-columns: 1fr 1fr 1fr; grid-gap: 4px; justify-content: center; margin-bottom: 2px; }
+
+.img4 { display: grid; grid-template-columns: 1fr 1fr 1fr 1fr; grid-gap: 4px; justify-content: center; margin-bottom: 2px; }
+
+figure.float { max-width: 300px; }
+
+img.emoji { display: inline; height: 16px; width: auto; }
+
+.float.left { float: left; margin-right: 10px; }
+
+.float.right { float: right; margin-left: 10px; }
+
+em { color: #d20; font-style: normal; }
+
+h1 em, h2 em, h3 em { font-weight: 400; }
+
+hr { border: 0; border-top: 8px solid #333322; margin-top: 10px; margin-bottom: 40px; clear: both; width: 20px; }
+
+h1 { font: 700 72px/64px "PicoA", "Helvetica Neue", Helvetica, Arial, system-ui, sans-serif; letter-spacing: -1.5px; transform: translateX(-3px); }
+
+h2 { font: 700 48px/42px "PicoA", "Helvetica Neue", Helvetica, Arial, system-ui, sans-serif; letter-spacing: -0.45px; margin-bottom: 8px; transform: translateX(-1.5px); }
+
+h3 { font: 700 24px/24px "PicoA", "Helvetica Neue", Helvetica, Arial, system-ui, sans-serif; margin-bottom: 0; transform: translateX(-0.2px); }
+
+h4 { font: 600 14px/16px "PicoA", "Helvetica Neue", Helvetica, Arial, system-ui, sans-serif; letter-spacing: 0.5 px; }
+
+h5, figcaption { font: 400 12px/14px "PicoA", "Helvetica Neue", Helvetica, Arial, system-ui, sans-serif; letter-spacing: 0.5px; margin-bottom: 10px; }
+
+p + h5 { margin-top: -10px; }
+
+.img2 + h5 { margin-top: 2px; }
+
+p, ul, h6 { font: 400 14px/16px "PicoA", "Helvetica Neue", Helvetica, Arial, system-ui, sans-serif; letter-spacing: 0.4px; margin-bottom: 6px; }
+
+h6 + ul { margin-top: -6px; }
+
+ul { list-style-type: none; margin-left: 16px; }
+
+ul li:before { content: '\2192'; position: absolute; margin-left: -18px; }
+
+.post { margin-bottom: 4px; }
+
+.post p { margin-bottom: 0; }
+
+.post-full { max-width: 700px; margin: 0 0 36px; hyphens: auto; z-index: 10; }
+
+.post-full p, .post-full ul, .post-full h6 { font: 400 15px/18px "PicoA", "Helvetica Neue", Helvetica, Arial, system-ui, sans-serif; letter-spacing: 0.4px; margin-bottom: 6px; }
+
+.post-full h4 { font: 600 18px/20px "PicoA", "Helvetica Neue", Helvetica, Arial, system-ui, sans-serif; letter-spacing: 0.4px; margin-bottom: 6px; }
+
+.post-content { padding-left: 12px; }
+
+audio { margin-bottom: 10px; }
+
+a { color: #332; text-decoration: none; }
+
+.post-full a { border: 1px dotted #332; }
+
+a:hover { background: #332; color: #fff; }
+
+.hide { display: none; }
+
+.hide2 { display: none; }
+
+@media (max-width: 600px) { * { clear: both; float: none; }
+  .img2, .img3, .img4 { display: grid; grid-template-columns: 1fr; margin-bottom: 5px; }
+  figure.float { width: 100%; max-width: 100%; margin-left: 0; margin-right: 0; } }
+@media (max-width: 797px) { #grid { grid-template-columns: 1fr; grid-gap: 0; } }
+@media (max-width: 825px) { #back { display: none; } }

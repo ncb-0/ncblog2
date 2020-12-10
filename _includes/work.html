@@ -1,0 +1,28 @@
+<div id="work">
+  <h3 style="margin-bottom:0">
+    portfolio
+  </h3>
+    <ul>
+      {% assign sorted = site.work | sort: "date" | reverse %}
+      {% for work in sorted %}
+        <li>
+          <a href="{{ work.url | prepend: site.baseurl }}"> {{ work.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  <!-- <p>
+    <ul>
+      <li><a href="#">Piraba</a></li>
+      <li><a href="#">SB International</a></li>
+      <li><a href="#">My Famicase Exhibition</a></li>
+      <li><a href="#">Micromissile</a> <span class="accent">(coming soon)</span></li>
+      <li><a href="#">Conejo Island</a></li>
+      <li><a href="#">Yakui – Imni LP</a></li>
+      <li><a href="#">Portfolio Day #9</a></li>
+      <li><a href="#">itemLabel</a></li>
+      <li><a href="#">Etobicoke Fashion Show</a></li>
+      <li><a href="#">24 32</a></li>
+      <li><a href="#">Neetgear</a></li>
+    </ul>
+  </p> -->
+</div>
