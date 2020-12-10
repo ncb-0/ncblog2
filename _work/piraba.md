@@ -6,7 +6,7 @@ year: 2018–
 date: 2018-06-01
 ---
 
-*pira* (noun): a mischievous wandering spite in the form of a pyramid with a halo <br>
+*pira* (noun): a mischievous wandering sprite in the form of a pyramid with a halo <br>
 *piraba* (noun): "Land of Pira"
 
 [Piraba](http://piraba.net) is my Discord server, free for anyone to join. Many of us are artists, musicians, designers, or otherwise creators. Occasionally we draw together via Drawpile or listen to music together in the voice channel. We also have a Minecraft server. My handle is @ncb0#0408.
