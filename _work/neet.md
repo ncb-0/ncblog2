@@ -19,4 +19,9 @@ Neet closed in December 2018.
 
 ##### Various Neet products I designed.
 
+* * *
 
+###### Software
+- MS Paint
+- Clip Studio Paint Pro
+- Blender 2.7x

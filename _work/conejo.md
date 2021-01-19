@@ -48,11 +48,24 @@ On 2 May 2020, Sofa and I hosted the Conejo Island Golden Egg Ball, a dance part
 
 ### conejoBeat+
 
-Our most recent virtual rave. [View blog post.](/2020/07/04/after-conejoBeat+.html)
+27 June 2020, our biggest rave yet. [View blog post.](/2020/07/04/after-conejoBeat+.html)
 
 <figure>
   <img src="{{ site.baseurl }}/assets/img/wafamc.png">
   <figcaption>
     MC Waterfairy.
+  </figcaption>
+</figure>
+
+* * *
+
+### conejoBeat season 1
+
+Series of mini-raves in fall 2020. [View blog post.](/2020/12/09/conejoBeat-season-1.html)
+
+<figure>
+  <img src="{{ site.baseurl }}/assets/img/cbs1-dancers.png">
+  <figcaption>
+    Dancers at conejoBeat season 1 part 2.
   </figcaption>
 </figure>

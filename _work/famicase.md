@@ -26,3 +26,12 @@ Entry description: *mingOS is a cartridge based operating system for Ming robots
     mingOS cartridge + the gallery space.
   </figcaption>
 </figure>
+
+* * *
+
+###### Typefaces
+- sb-pico-B (unreleased)
+
+###### Software
+- Affinity Designer
+- Glyphs 2.65

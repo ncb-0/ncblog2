@@ -30,7 +30,7 @@ In 2019, the school got the opportunity to host the show on a much larger scale�
 
 ### Crushed #2
 
-In 2018, the EFS heads put together Crushed Magazine, showcasing photos of student designs and artworks from the show. In 2019, I designed and edited Crushed #2—80+ pages of student fashion photos and essays. Custom Crushed logotype is featured on the cover. Magazine is typeset in “Studio,” an early unreleased version of my Spec typeface.
+In 2018, the EFS heads put together Crushed Magazine, showcasing photos of student designs and artworks from the show. In 2019, I designed and edited Crushed #2—80+ pages of student fashion photos and essays. Custom Crushed logotype is featured on the cover. Magazine is typeset in sb-studio, an early unreleased version of my sb-spec typeface.
 
 [Download Crushed #2 PDF](https://drive.google.com/file/d/1U2lSzCMlywL6SeTMMo9f5bU692RCh1Es/view?usp=sharing)
 
@@ -38,3 +38,15 @@ In 2018, the EFS heads put together Crushed Magazine, showcasing photos of stude
   <img src="{{ site.baseurl }}/assets/img/crushed2cover.png">
   <figcaption>Crushed #2 cover. Letter size.</figcaption>
 </figure>
+
+* * *
+
+###### Typefaces
+- sb-studio (see [sb-spec](http://sbintl.cc))
+- Custom Crushed #2 logotype
+
+###### Software
+- Adobe Illustrator CC
+- Adobe InDesign CC
+- Fontlab VI
+- Traktor Pro 3

@@ -10,8 +10,6 @@ Album artwork for [Imni by Yakui.](http://eatdis.bandcamp.com/album/imni)
 
 A vast digital space in which clouds of infinitely small points guide weightless organic forms.
 
-Designed in Blender and Illustrator. Typeset in the unreleased "sb-telecom" typeface (below).
-
 ![]({{ site.baseurl }}/assets/img/sb-telecom.svg)
 
 * * *
@@ -73,3 +71,12 @@ Designed in Blender and Illustrator. Typeset in the unreleased "sb-telecom" type
     Iteration #4.
   </figcaption>
 </figure>
+
+* * *
+
+###### Typefaces
+- sb-telecom (unreleased)
+
+###### Software
+- Blender 2.79
+- Adobe Illustrator CC

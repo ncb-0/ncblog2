@@ -17,12 +17,12 @@ date: 2018-06-01
 
 ### Isla Piraba
 
-Isla Piraba is my space in Second Life, located next to [Conejo Island](/work/conejo) in Lendrum. On June 27, we hosted the first event here—[conejoBeat+.](/2020/07/04/after-conejoBeat+.html) Stay tuned for the next one …
+Isla Piraba is my space in Second Life, located next to [Conejo Island](/work/conejo) in Lendrum. On June 27, we hosted the first event here—[conejoBeat+.](/2020/07/04/after-conejoBeat+.html) In fall 2020, we hosted [conejoBeat season 1.](/2020/12/09/conejoBeat-season-1.html)
 
 <figure>
   <div class="img2">
-    <img src="{{ site.baseurl }}/assets/img/cb-dancing.png">
-    <img src="{{ site.baseurl }}/assets/img/cb-exterior.png">
+    <img src="{{ site.baseurl }}/assets/img/cbvenuenew.png">
+    <img src="{{ site.baseurl }}/assets/img/cbs1-crowd.png">
   </div>
   <figcaption>The conejoBeat venue in Isla Piraba.</figcaption>
 </figure>

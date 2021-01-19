@@ -251,6 +251,13 @@ a:hover {
   background: $dk;
   color: $lt;
 }
+.invisible {
+  border: 0;
+  color: $lt;
+}
+.invisible:hover {
+  background: 0;
+}
 // media
 .hide {
   display: none;

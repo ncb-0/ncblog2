@@ -19,6 +19,13 @@ In their senior year, [Etobicoke School of the Arts](http://esainfo.ca) students
 
 In 2018, it was my turn. Compared to other students, I displayed very little of my own artwork—instead, I opted to direct the event's branding with posters, flyers, and other promotional material with a consistent typographical theme and logotype.
 
+###### Typefaces
+- [Suisse Int’l](https://www.swisstypefaces.com/fonts/suisse/)
+
+###### Software
+- Adobe Illustrator CC
+- Adobe After Effects CC
+
 * * *
 
 ### Video
@@ -29,15 +36,3 @@ In 2018, it was my turn. Compared to other students, I displayed very little of 
   </video>
   <figcaption>PD9 welcome video. Played on lobby TV during event. (All links and handles shown are now obsolete.)</figcaption>
 </figure>
-
-
-
-
-<!-- <figure class="float left">
-  <img src="/assets/img/pd9.jpg">
-  <figcaption>Flattering photo of pre-transition Mel surrounded by Graphic Design™</figcaption>
-</figure> -->
-
-<!-- ![](/assets/img/pd9-a2.png) -->
-
-<!-- ##### Promotional poster as seen above. A2 size. -->

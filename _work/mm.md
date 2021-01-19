@@ -19,3 +19,13 @@ Micromissile is a romance/sci-fi graphic novel I’ve had in the works since 201
     The book in print.
   </figcaption> -->
 </figure>
+
+* * *
+
+Progress: ~20%
+
+###### Typefaces
+- sb-mega (unreleased)
+
+###### Software
+- Clip Studio Paint Pro
