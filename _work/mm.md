@@ -11,7 +11,7 @@ Yumi Hara is a newly hired programmer at Ming Systems Inc. whose job is to train
 
 * * *
 
-Micromissile is a romance/sci-fi graphic novel I’ve had in the works since 2017, to be published sometime this decade. A5, ~200pp, B+W.
+MM is a romance/sci-fi graphic novel I’ve had in the works since 2017, to be published sometime this decade. A5, ~200pp, B+W.
 
 <figure>
   <img src="{{ site.baseurl }}/assets/img/mm1.png">
