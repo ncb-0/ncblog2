@@ -1,5 +1,5 @@
 ---
-title: (mm)
+title: MM
 type: wip/print/book
 year: 202X
 date: 2017-02-12
