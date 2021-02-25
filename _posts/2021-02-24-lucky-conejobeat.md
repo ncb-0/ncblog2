@@ -39,7 +39,7 @@ I’ll kick things off as DJ Nezubo, followed by my partner [Tansy](https://twit
   <div>
     <img src="{{ site.baseurl }}/assets/img/nez-peacesigns.png">
   </div>
-  <figcaption>s
+  <figcaption>
     Nezubo in front of the LUCKY CONEJOBEAT venue.
   </figcaption>
 </figure>
