@@ -72,7 +72,7 @@ ul li:before { content: '\2192'; position: absolute; margin-left: -18px; }
 
 .post p { margin-bottom: 0; }
 
-.post-full { max-width: 700px; margin: 0 0 36px; hyphens: auto; z-index: 10; }
+.post-full { max-width: 700px; margin: 0 auto 36px; hyphens: auto; z-index: 10; }
 
 .post-full p, .post-full ul, .post-full h6 { font: 400 15px/18px "PicoA", "Helvetica Neue", Helvetica, Arial, system-ui, sans-serif; letter-spacing: 0.4px; margin-bottom: 6px; }
 
@@ -80,13 +80,21 @@ ul li:before { content: '\2192'; position: absolute; margin-left: -18px; }
 
 .post-content { padding-left: 12px; }
 
+#back { z-index: 4; position: fixed; top: 0px; left: 7px; border: none; }
+
+#back a, .hide a, .hide2 a { color: #332; border: none; }
+
+#back a::after, .hide a::after { content: ""; }
+
+#back a:hover, .hide a:hover, .hide2 a:hover { background: none; color: #781; border: none; }
+
 audio { margin-bottom: 10px; }
 
-a { color: #332; text-decoration: none; }
+a { color: #781; text-decoration: none; }
 
-.post-full a { border: 1px dotted #332; }
+.post-full a { border: 1px dotted #781; }
 
-a:hover { background: #332; color: #fff; }
+a:hover { background: #781; color: #fff; }
 
 .invisible { border: 0; color: #fff; }
 
@@ -99,5 +107,5 @@ a:hover { background: #332; color: #fff; }
 @media (max-width: 600px) { * { clear: both; float: none; }
   .img2, .img3, .img4 { display: grid; grid-template-columns: 1fr; margin-bottom: 5px; }
   figure.float { width: 100%; max-width: 100%; margin-left: 0; margin-right: 0; } }
-@media (max-width: 797px) { #grid { grid-template-columns: 1fr; grid-gap: 0; } }
-@media (max-width: 825px) { #back { display: none; } }
+@media (max-width: 797px) { #back { display: none; }
+  #grid { grid-template-columns: 1fr; grid-gap: 0; } }
