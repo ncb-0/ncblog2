@@ -29,7 +29,7 @@ $15 base + $5 per additional character. Halftones optional. Add background for $
 
 ### #2 Flat colour 🖍
 
-$30 base + $10 per additional character. Line styles and colours by request.
+$30 base + $10 per additional character. Add background for $20 extra.
 
 <figure style="margin-bottom:24px;">
   <div class="img2">
