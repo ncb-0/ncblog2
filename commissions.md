@@ -17,7 +17,7 @@ All prices USD. Will draw SFW or NSFW. I may turn down any request I’m not com
 
 ### #1 Basic lined 🖋
 
-$10 base + $3 per additional character. Includes optional greyscale tones (shown below).
+$15 base + $5 per additional character. Halftones optional. Add background for $15 extra.
 
 <figure style="margin-bottom:24px;">
   <div class="img2">
@@ -29,7 +29,7 @@ $10 base + $3 per additional character. Includes optional greyscale tones (shown
 
 ### #2 Flat colour 🖍
 
-$20 base + $5 per additional character. Line styles and colours by request.
+$30 base + $10 per additional character. Line styles and colours by request.
 
 <figure style="margin-bottom:24px;">
   <div class="img2">
@@ -41,7 +41,7 @@ $20 base + $5 per additional character. Line styles and colours by request.
 
 ### #3 Basic painted 🎨
 
-$50 base + $15 per additional character. Lettering optional.
+$60 base + $20 per additional character. Lettering optional.
 
 <figure style="margin-bottom:24px;">
   <div class="img2">
@@ -53,7 +53,7 @@ $50 base + $15 per additional character. Lettering optional.
 
 ### #4 Painted with background 🌅
 
-$70 base + $15 per additional character.
+$90 base + $15 per additional character.
 
 <figure style="margin-bottom:24px;">
   <div class="img2">
