@@ -53,7 +53,7 @@ $60 base + $20 per additional character. Lettering optional.
 
 ### #4 Painted with background 🌅
 
-$90 base + $15 per additional character.
+$90 base + $20 per additional character.
 
 <figure style="margin-bottom:24px;">
   <div class="img2">
