@@ -48,11 +48,9 @@ hr { border: 0; border-top: 8px solid #333322; margin-top: 10px; margin-bottom: 
 
 h1 { font: 700 72px/64px "PicoA", "Helvetica Neue", Helvetica, Arial, system-ui, sans-serif; letter-spacing: -1.5px; transform: translateX(-3px); }
 
-h2 { font: 700 48px/42px "PicoA", "Helvetica Neue", Helvetica, Arial, system-ui, sans-serif; letter-spacing: -0.45px; margin-bottom: 8px; transform: translateX(-1.5px); }
+h2 { font: 700 48px/42px "PicoA", "Helvetica Neue", Helvetica, Arial, system-ui, sans-serif; letter-spacing: -0.45px; margin-bottom: 4px; transform: translateX(-1.5px); }
 
-h3 { font: 700 24px/24px "PicoA", "Helvetica Neue", Helvetica, Arial, system-ui, sans-serif; margin-bottom: 0; transform: translateX(-0.2px); }
-
-h4 { font: 600 14px/16px "PicoA", "Helvetica Neue", Helvetica, Arial, system-ui, sans-serif; letter-spacing: 0.5 px; }
+h3 { font: 700 24px/18px "PicoA", "Helvetica Neue", Helvetica, Arial, system-ui, sans-serif; margin-bottom: 0; transform: translateX(-0.2px); }
 
 h5, figcaption { font: 400 12px/14px "PicoA", "Helvetica Neue", Helvetica, Arial, system-ui, sans-serif; letter-spacing: 0.5px; margin-bottom: 10px; }
 
@@ -76,7 +74,7 @@ ul li:before { content: '\2192'; position: absolute; margin-left: -18px; }
 
 .post-full p, .post-full ul, .post-full h6 { font: 400 15px/18px "PicoA", "Helvetica Neue", Helvetica, Arial, system-ui, sans-serif; letter-spacing: 0.4px; margin-bottom: 6px; }
 
-.post-full h4 { font: 600 18px/20px "PicoA", "Helvetica Neue", Helvetica, Arial, system-ui, sans-serif; letter-spacing: 0.4px; margin-bottom: 6px; }
+h4 { font: 600 18px/20px "PicoA", "Helvetica Neue", Helvetica, Arial, system-ui, sans-serif; letter-spacing: 0.4px; margin-bottom: 6px; }
 
 .post-content { padding-left: 12px; }
 

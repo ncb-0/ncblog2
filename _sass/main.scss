@@ -136,19 +136,19 @@ h1 {
 h2 {
   font: 700 48px/42px $pico;
   letter-spacing: -0.45px;
-  margin-bottom: 8px;
+  margin-bottom: 4px;
   transform: translateX(-1.5px);
 }
 h3 {
-  font: 700 24px/24px $pico;
+  font: 700 24px/18px $pico;
   margin-bottom: 0;
   transform: translateX(-0.2px);
 }
-h4 {
-  font: 600 14px/16px $pico;
-  letter-spacing: 0.5 px;
-  // margin-bottom: 6px;
-}
+// h4 {
+//   font: 600 14px/16px $pico;
+//   letter-spacing: 0.5 px;
+//   // margin-bottom: 6px;
+// }
 h5, figcaption {
   font: 400 12px/14px $pico;
   letter-spacing: 0.5px;
@@ -221,7 +221,7 @@ ul li:before {
   margin-bottom: 6px;
   // color: red;
 }
-.post-full h4 {
+h4 {
   font: 600 18px/20px $pico;
   letter-spacing: 0.4px;
   margin-bottom: 6px;
