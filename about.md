@@ -6,9 +6,9 @@ type: ncb0/bio
 ---
 
 <figure class="float right">
-  <img src="{{ site.baseurl }}/assets/img/mel2.png">
+  <img src="{{ site.baseurl }}/assets/img/mel3.png">
   <figcaption>
-    c’est moi!
+    I’m holding a little toy I named Beetrice …
   </figcaption>
 </figure>
 
